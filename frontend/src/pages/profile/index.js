@@ -30,7 +30,7 @@ export default function Profile(){
         })
         setIncidents(incidents.filter(incident => incident.id !== id))
     } catch (err){
-            alert('Deu error!!!!')
+            alert('Deu error!!!')
         }
     }
 
