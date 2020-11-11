@@ -2,7 +2,6 @@
 
 Aplicação web e android feita durante a semana Omnistack com o intuito de aprimorar os conhecimentos em Node.JS, ReactJS e React Native 💜 
 
-Vamos desenvolver um app no React Native para trabalhar com Mapas e Geolocalização.
 
 ## 🚀 Tecnologias
 
