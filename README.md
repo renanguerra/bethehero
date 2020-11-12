@@ -16,4 +16,5 @@ Fique a vontade <3
 
 ---
 
-<p align="center">Desenvolvido com 💜 por Renan Guerra | Front-end Developer</p>
+<p align="center">Desenvolvido com 💜 por Renan Guerra
+ 
